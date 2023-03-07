@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Music_Manager : MonoBehaviour
 {
+    public GameObject audio;
     static bool AudioBegin = false;
     public int restSeconds = 0; 
     // Start is called before the first frame update
@@ -19,6 +20,8 @@ public class Music_Manager : MonoBehaviour
     }
    void Update()
     {
+
+       // audio.GetComponent<AudioSource>().volume= //slider
         if (restSeconds == 4)
         {
             AudioBegin = true;
