@@ -22,7 +22,7 @@ EditorBuildSettings:
     guid: 92e015d02571b0c4da3cb1c2c49c9831
   - enabled: 0
     path: 
-    guid: 6e4637aff66edd44a963ad61b94b8879
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Graphic Resolution.unity
     guid: f7ef787b6df150048bb5c5ff06a3fc55
@@ -35,4 +35,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Audio.unity
     guid: 6e507d636a687cf428dd1925b3d0e77a
+  - enabled: 0
+    path: Assets/Scenes/Load and Save.unity
+    guid: c785c5c2fc2a07b4ca26b523bd471f05
+  - enabled: 1
+    path: Assets/Scenes/Continue Load.unity
+    guid: 598d4ec5784b8064ba869b9bc68c845b
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 2b71a898adce9be4db48e3d749236d9b
+  - enabled: 1
+    path: Assets/Scenes/SaveScene.unity
+    guid: e4770f90651c2514ab204cdcf64e58b3
   m_configObjects: {}
